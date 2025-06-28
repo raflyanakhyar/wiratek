@@ -18,7 +18,7 @@ export function BorrowReturnForm() {
       <CardHeader>
         <CardTitle>Form Buku</CardTitle>
         <CardDescription>
-          Peminjaman atau pengembalian buku menggunakan memer dan kode buku
+          Peminjaman atau pengembalian buku menggunakan member dan kode buku
         </CardDescription>
       </CardHeader>
       <CardContent>
